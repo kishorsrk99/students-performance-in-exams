@@ -20,5 +20,3 @@ To understand the influence of the parents background, test preparation etc on s
 * Visualize the data to understand the effects of different factors on a student performance.
 * Check the effectiveness of test preparation course.
 * Check what are the major factors influencing the test scores.
-
-Check out my Kaggle submission : https://www.kaggle.com/souvikpy/student-performance-in-exams
